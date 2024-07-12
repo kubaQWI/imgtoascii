@@ -5,5 +5,5 @@
 
 ## Usage
 
-<br>
+
 <p>Download main.py and open file. Then drag image to main.py localization. Run script and enter a name</p>
